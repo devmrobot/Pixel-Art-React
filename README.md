@@ -1,9 +1,9 @@
-# Training-React-Game-Guess-Number
+# Training-React-Game-Pixel-Art
 React
 
 ## 🎨 React Pixel Art : Let's paint !
 
-![mockups](https://github.com/devmrobot/Training-React-Guess-Number/blob/main/guess-number.jpg)
+![mockups](https://raw.githubusercontent.com/devmrobot/Pixel-Art-React/main/pixel-art.jpg)
 
 ## 🚀 Brief
 
